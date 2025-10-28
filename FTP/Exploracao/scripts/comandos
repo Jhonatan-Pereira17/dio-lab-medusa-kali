@@ -1,0 +1,1 @@
+medusa -h "IP" -u "arquivo de usuarios" -p "arquivos de senhas" -m ftp -t 6: este é o comando onde ha de fato o ataque com o medusa sinalizando as pastas de arquivos e o tipo de ataque ftp, como tambem exemplifica 6 ataques simultaneos.

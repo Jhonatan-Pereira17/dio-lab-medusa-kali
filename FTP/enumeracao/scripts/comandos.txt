@@ -1,0 +1,5 @@
+ping -c 3:  IP" este comando envia 3 pacotes para testar a conexão com o alvo.
+nmap -sV -p 21,22,80,445,139 "IP": este comando veirfica se as portas estão abertas, os numeros separados por virgula são as portas escolhidas.
+ftp "IP": comando para testar se a porta ftp aceita conexão.
+echo -e "rota onde o arquivo sera guardado" > nome do arquivo: comando para criar arquivo que contera a lista de possiveis usuarios.
+echor -e "rota onde o arquivo sera guardado" > nome do arquivo: comando para criar arquivo que contera a lista de possiveis senhas.
