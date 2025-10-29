@@ -1,0 +1,3 @@
+enum4linux -a "IP" | tee enum4_output.txt: a primeira parte do comando refere-se a ferramenta utilizada o -a indica que a ferramenta deve usar todas as suas ações logo em seguida vem o ip da maquino e a dinte esta o comando que avisa ao terminal onde ira guaradros resultados obtidos.
+echo -e "user\nmsfadmin\nservice" > smb_users.txt : comoando para a criação de wordlist de usuarios
+echo -e "password\n123456\nwelcome123\nmsfadmin" > senhas_spray.txt: utilização do spraying para testar senhas fracas em varios usuarios

